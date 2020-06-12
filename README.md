@@ -1,6 +1,5 @@
-# CA_Comorbidity
+# Padrão de Prevelância de Morbidades e Estilo de Vida: Evidências da Pesquisa Nacional de Saúde 2013
 
-PADRÃO DE PREVALÊNCIA DE MORBIDADES E ESTILO DE VIDA: EVIDÊNCIAS DA PESQUISA NACIONAL DE SAÚDE 2013
 
 Nas últimas décadas, os padrões de incidência e prevalência de doenças na população
 mundial vem se modificando devido aos processos de transição demográfica, epidemiológica
