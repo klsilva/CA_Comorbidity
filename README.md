@@ -7,13 +7,7 @@ e nutricional. De forma que se observa aumento da prevalência de doenças crôn
 transmissíveis (DCNT) em relação as doenças infecciosas.
 
 Estimativas da Organização Mundial da Saúde (OMS) apontam que no ano de 2012 as
-DCNT foram a principal causa de morte do mundo. Correspondendo a 68% dos óbitos. Além
-disso, é observado que aproximadamente 75% das mortes por DCNT ocorrem em países de
-baixa e média renda. Destes 75%, 40% são consideradas mortes prematuras. No Brasil,
-aproximadamente 72% das mortes foram atribuídas as DCNT em 2007 (GOULART, 2011;
-SCHMIDT et al., 2011e OMS ,2014)
-
-É amplamente sabido as consequências da incidência e prevalência de uma DCNT
+DCNT foram a principal causa de morte do mundo. Além disso, é amplamente sabido as consequências da incidência e prevalência de uma DCNT
 sobre a qualidade de vida do portador de alguma DCNT. Já para o caso de interações entre as
 DCNT se observa que tal fenômeno e suas consequências tem se tornado mais cognoscível
 nos últimos anos. Há evidências científicas apontam que as interações das DCNT
@@ -24,4 +18,12 @@ esperado para o portador de apenas uma destas DCNT (HUNGER et al., 2011; CARVALH
 Desta forma, torna-se relevante a compreensão do padrão de prevalência das DCNT e
 dos principais fatores de risco associadas a estas. Assim, este estudo objetiva analisar a
 associação entre o padrão de prevalência das cinco DCNT mais frequentes no Brasil em 2013
-e os fatores de risco tabagismo e sedentarismo.
+e os fatores de risco tabagismo e sedentarismo a partir dos dados da Pesquisa Nacional da Saúde. 
+
+Para alcançar os objetivos, foi utilizado o método 'Análise de Correspondência Múltipla'.
+
+Os resultados obtidos são consonantes com a Literatura. De modo que foi observado que a não prevalência de morbidades está associada a inexistência dos fatores de riscos sedentarismo e tabagismo. 
+Além disso, foi observado que a multimorbidade está associada ao fator de risco tabagismo e que a prevalência de uma única morbidade está associada negativamente ao sedentarismo. 
+Frisa-se que a importância destes resultados reside no papel de auxiliador de formulações e aprimoramentos de políticas públicas de controle e prevenção das DCNT. Especialmente para cenários de multimorbidade.
+
+
